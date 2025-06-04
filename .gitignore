@@ -1,0 +1,15 @@
+# Maven
+target/
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+
+# Docker
+*.pid
