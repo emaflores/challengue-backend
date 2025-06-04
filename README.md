@@ -34,7 +34,7 @@ git clone https://github.com/emaflores/challengue-backend.git
 cd challenge-backend
 ```
 
-### 2. Clonar el repositorio
+### 2. Levantar la aplicación con Docker
 
 ```bash
 docker compose up --build
